@@ -1,5 +1,5 @@
 # customAlert
-Custom Alert where you can change 
+Custom Alert where you can change alert box bg-color and text-color.
 
 **CDN**
 ```
